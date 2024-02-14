@@ -1,2 +1,2 @@
-# esp32_development
-all esp32 project
+
+Driver for MEMS lsm6dsox IC for guesture detection
